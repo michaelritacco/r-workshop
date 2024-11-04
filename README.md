@@ -1,4 +1,4 @@
-# R-Workshop
+# R Workshop
 
 Welcome to my R for Data Science Workshop GitHub repository!
 
